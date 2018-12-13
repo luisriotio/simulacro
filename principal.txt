@@ -3,5 +3,5 @@ Aqui vamos a hacer unas pruebas con git...
 Empezamos a trabajar 
 
 ---
-esta seria la version de explotacoión
+*esta seria la version de explotacoión*
 ---

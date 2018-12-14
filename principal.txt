@@ -6,9 +6,9 @@ Empezamos a trabajar
 ---====_----
 *Esta seria la version de explotación*
 -====_----
-****
+********
 
 Este es mi nuevo párrafo que aún no quiero que el cliente vea
 
 Hago mas cambios en interno
-**
+********

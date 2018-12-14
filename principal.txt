@@ -2,7 +2,17 @@ Esto es un simulacro
 Aqui vamos a hacer unas pruebas con git...
 Empezamos a trabajar 
 
+<<<<<<< HEAD
 ---====_----
 *esta seria la version de explotacoión*
 -====_----
 
+=======
+---
+esta seria la version de explotacoión
+interno
+---
+Este es mi nuevo párrafo que aún no quiero que el cliente vea
+
+Hago mas cambios en interno
+>>>>>>> interno
